@@ -1,0 +1,24 @@
+@font-face {
+	font-family: 'Open Sans', sans-serif;
+	font-weight:400;
+	font-style:normal;
+	src:url("https://fonts.googleapis.com/css?family=Open+Sans&amp;subset=cyrillic")
+}
+
+#home {
+	font-family: 'Open Sans';
+	font-size: 100%;
+	color: #000;
+	line-height: 1.5;
+}
+
+div {
+	display: block;
+}
+
+.header {
+	max-width: 1420px;
+	background: #fff;
+	overflow: hidden;
+	position: relative;
+}
